@@ -1,0 +1,16 @@
+## Interface: 30300
+## Title: Solar Tracker
+## Notes: Solar Power display for the Sun Cleric: a notched bar, with a matching bar under it counting down Battle Cleric, gold to red as it runs out and flashing with the client spell-proc glow around it for the last four seconds. Dawn charges while Dawn is up, hides the client's orb, shows in combat or with a target. Ctrl + left-drag to move.
+## Author: Deniz
+## Version: 3.5
+## SavedVariables: SolarTrackerDB
+## SavedVariablesPerCharacter: SolarTrackerCharDB
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+Libs\LibDBIcon-1.0\LibDBIcon-1.0.lua
+
+Core.lua
+Styles.lua
+Display.lua
