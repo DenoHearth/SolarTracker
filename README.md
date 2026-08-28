@@ -22,6 +22,10 @@ A World of Warcraft 3.3.5a addon, written for the [Project Ascension](https://as
 - Client interface version **3.3.5a (30300)**.
 - Built and tested on Project Ascension. It uses that server's custom classes and APIs in places, so it is not guaranteed to work on a stock WotLK client.
 
+## Changelog
+
+What changed in each version: [CHANGELOG.md](CHANGELOG.md).
+
 ## License
 
 MIT — see [LICENSE](LICENSE).  Current version: 3.5.
